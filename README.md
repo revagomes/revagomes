@@ -1,16 +1,13 @@
-### Hi there 👋
+### O-Lá 👋
 
-<!--
-**revagomes/revagomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... [Revax](http://revax.com.br), [Nyx Technology](http://nyx.tc), [Associação Caminhos oara o Futuro - ACF](http://novostitas.org) and [ARHS Developments](http://arhs-deve.be)
+- 🌱 I’m currently learning ... 🇫🇷 Français 🇫🇷 & 🇩🇪 Deutsch 🇩🇪
+- 👯 I’m looking to collaborate on ... Open-Source technologies and initiatives to improve  animal's and people's lives
+- 🤔 I’m looking for help with ... push for writing my first book
+- 💬 Ask me about ... be creative and feel free to decide the topic
+- 📫 How to reach me: ... @revagomes
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Since child I've been doing kind of Beatbox and (sometimes weird) sounds with my mouth almost all the time 😝
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=revagomes)](https://github.com/ryo-ma/github-profile-trophy)
