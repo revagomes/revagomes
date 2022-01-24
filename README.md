@@ -1,6 +1,6 @@
 ### O-Lá 👋
 
-- 🔭 I’m currently working on ... [PECE Distro](https://worldpece.org/) and [Novos Titãs](http://novostitas.org/).
+- 🔭 I’m currently working on ... [PECE Project](https://worldpece.org/) and [Novos Titãs](http://novostitas.org/).
 - 🌱 I’m currently learning ... Français 🇫🇷 & Deutsch 🇩🇪
 - 👯 I’m looking to collaborate on ... Open-Source technologies and initiatives to improve animal's and people's lives
 - 🤔 I’m looking for help with ... push for writing my first book
