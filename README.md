@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning ... Français 🇫🇷 & Deutsch 🇩🇪
 - 👯 I’m looking to collaborate on ... Open-Source technologies and initiatives to improve animal's and people's lives
 - 🤔 I’m looking for help with ... pushing for writing my first book
-- 💬 Ask me about ... anything so be creative and feel free to decide the topic
+- 💬 Ask me about ... anything so be creative and feel free to choose the topic
 - 📫 How to reach me: ... @revagomes
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Since child I've being doing sounds with my mouth quite frequently, kind of beatbox (sometimes weird sounds). 😝
+- ⚡ Fun fact: ... Since child I've being doing sounds with my mouth quite frequently, kind of beatbox style (sometimes weird sounds). 😝
 
 ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-blueviolet)
 
