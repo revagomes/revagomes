@@ -3,7 +3,12 @@
 - 🔭 I’m currently working on ... [PECE Project](https://worldpece.org/) and [Novos Titãs](http://novostitas.org/).
 - 🌱 I’m currently learning ... Français 🇫🇷 & Deutsch 🇩🇪
 - 👯 I’m looking to collaborate on ... Open-Source technologies and initiatives to improve animal's and people's lives
-- 🤔 I’m looking for help with ... pushing for writing my first book
+- 🤔 I’m looking for help with ... pushing for writing my second book
+>   1º book co-authoring with Stef Van Looveren:
+    *Aprendendo Drupal como um Framework - Seu guia para personalizar o Drupal.*
+    PT: https://leanpub.com/aprendendo-drupal-como-um-framework
+    ES: https://leanpub.com/aprendiendodrupal9comoframework
+    EN: https://leanpub.com/drupal-9  
 - 💬 Ask me about ... anything so be creative and feel free to choose the topic
 - 📫 How to reach me: ... @revagomes
 - 😄 Pronouns: ... He/Him
